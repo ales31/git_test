@@ -1,1 +1,1 @@
-This is my Git project
+This is my Git project for Google website
